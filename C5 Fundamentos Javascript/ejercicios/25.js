@@ -7,6 +7,6 @@ function combinarNombres(nombre, apellido) {
   return nombre + " " + apellido;
 
 }
-console.log(combinarNombres("Diego", "Candia"));
+
 
 module.exports = combinarNombres;
