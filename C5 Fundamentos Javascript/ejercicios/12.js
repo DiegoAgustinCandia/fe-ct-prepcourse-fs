@@ -1,16 +1,14 @@
 function tienenMismaLongitud(str1, str2) {
   // Obtener la longitud de cada cadena
-  let str1 = str1.length;
-  let str2 = str2.length;
+  let longitudStr1 = str1.length;
+  let longitudStr2 = str2.length;
 
   // Comparar las longitudes de las cadenas
-  if (str1 === str2) {
+  if (longitudStr1 === longitudStr2) {
     return true; // Tienen la misma longitud
   } else {
     return false; // No tienen la misma longitud
   }
 }
-
-
 
 module.exports = tienenMismaLongitud;
