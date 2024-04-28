@@ -1,7 +1,7 @@
 function tienenMismaLongitud(str1, str2) {
   // Obtener la longitud de cada cadena
-  var str1 = str1.length;
-  var str2 = str2.length;
+  let str1 = str1.length;
+  let str2 = str2.length;
 
   // Comparar las longitudes de las cadenas
   if (str1 === str2) {
