@@ -17,6 +17,6 @@ function esNumeroEntero(numero) {
 
 
 }
-console.log(esNumeroEntero(6));
+
 
 module.exports = esNumeroEntero;

@@ -10,7 +10,6 @@ function esVocal(letra) {
   }
 }
 
-console.log(esVocal("yu"));
 
 
 module.exports = esVocal;

@@ -14,6 +14,6 @@ function mayorQueCincuenta(num) {
 
 }
 
-console.log(mayorQueCincuenta(40))
+
 
 module.exports = mayorQueCincuenta;

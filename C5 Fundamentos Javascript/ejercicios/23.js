@@ -14,7 +14,7 @@ function obtenerResto(x, y) {
 }
 
 
-console.log(obtenerResto(12, 4));
+
 
 
 module.exports = obtenerResto;

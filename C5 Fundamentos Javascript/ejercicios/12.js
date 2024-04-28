@@ -11,9 +11,6 @@ function tienenMismaLongitud(str1, str2) {
   }
 }
 
-// Ejemplo de uso
-var str1 = "Hola";
-var str2 = "Holas";
-console.log(tienenMismaLongitud(str1, str2)); // Output: false
+
 
 module.exports = tienenMismaLongitud;

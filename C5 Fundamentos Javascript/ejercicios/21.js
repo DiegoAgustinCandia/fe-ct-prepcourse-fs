@@ -15,7 +15,7 @@ function multiplica(x, y) {
 }
 
 
-console.log(multiplica(8, 10))
+
 
 
 

@@ -16,6 +16,6 @@ function menosQueNoventa(num) {
 
 }
 
-console.log(menosQueNoventa(98))
+
 
 module.exports = menosQueNoventa;

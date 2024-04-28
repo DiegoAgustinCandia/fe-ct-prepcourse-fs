@@ -16,7 +16,7 @@ function esImpar(num) {
 
 }
 
-console.log(esImpar(6))
+
 
 
 module.exports = esImpar;

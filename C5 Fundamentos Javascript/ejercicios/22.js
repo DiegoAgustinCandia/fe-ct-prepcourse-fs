@@ -14,7 +14,7 @@ function divide(x, y) {
 }
 
 
-console.log(divide(8, 10))
+
 
 
 

@@ -14,6 +14,6 @@ function suma(x, y) {
 }
 
 
-console.log(suma(8, 10))
+
 
 module.exports = suma; 

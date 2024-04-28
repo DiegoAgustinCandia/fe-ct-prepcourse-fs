@@ -16,6 +16,6 @@ function esPar(num) {
 
 }
 
-console.log(esPar(5))
+
 
 module.exports = esPar;

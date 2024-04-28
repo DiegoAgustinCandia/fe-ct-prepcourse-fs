@@ -14,7 +14,7 @@ function resta(x, y) {
 }
 
 
-console.log(resta(8, 10))
+
 
 
 module.exports = resta;
