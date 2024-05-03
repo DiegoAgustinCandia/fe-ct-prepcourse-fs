@@ -20,4 +20,4 @@ function operadoresLogicos(num1, num2, num3) {
   }
 
 }
-mmodule.exports = operadoresLogicos;
+module.exports = operadoresLogicos;
